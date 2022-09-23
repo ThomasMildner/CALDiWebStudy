@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-body{
-
+body, html{
     height: 100%;
     width: 100%;
+    margin: 0;
     font-family: 'Poppins', sans-serif;}
+
 h1{
     font-size: 2.5em;
     color: #3177BA;
@@ -46,6 +47,93 @@ p{
 #header h1{
     text-align: right;
 }
+
+
+/********************/
+/*   CONTENT-TEXT   */
+/********************/
+
+#contentText {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100%;
+    box-sizing: border-box;
+    overflow-y: scroll;
+    background: rgba(255,255,255,0.6);
+    visibility: hidden;
+}
+
+#contentText-inner{
+    background: #ffffff;
+    height: 100%;
+    overflow-y: scroll;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 10vh;
+    filter: drop-shadow(0px 0px 10px #13456c);
+}
+
+
+.innerCloseButton {
+    position: absolute;
+    right: 32px;
+    top: 32px;
+    width: 32px;
+    height: 32px;
+    opacity: 0.5;
+}
+.innerCloseButton:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.innerCloseButton:before, .innerCloseButton:after {
+    position: absolute;
+    left: 15px;
+    content: ' ';
+    height: 33px;
+    width: 5px;
+    border-radius: 5px;
+    background-color: #13456c;
+}
+.innerCloseButton:before {
+    transform: rotate(45deg);
+}
+.innerCloseButton:after {
+    transform: rotate(-45deg);
+}
+
+#innerLetter {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 10vh;
+}
+
+#innerLetter h1{
+    color: #13456c;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+#innerLetter h2{
+    color: #13456c;
+    font-size: 1.5em;
+    font-weight: 200;
+}
+
+#innerLetter p {
+    color: #001a2f;
+    font-weight: 300;
+}
+
+#innerLetter a {
+    color: #001a2f;
+    font-weight: 300;
+}
+
 
 /********************/
 /*      CONTENT     */
@@ -89,6 +177,7 @@ p{
 
 .button:hover{
     background: #13456c;
+    cursor: pointer;
 }
 
 
@@ -109,10 +198,11 @@ p{
     font-size: 2em;
     font-weight: 300;
     color: #3177BA;
+    text-decoration: none;
 }
 
 #footer a:hover{
-    text-decoration: underline 1px #3177BA;
+    text-decoration: underline 2px #3177BA;
 }
 
 /********************/
