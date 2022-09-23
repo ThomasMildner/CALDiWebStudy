@@ -59,13 +59,14 @@ p{
     left: 0;
     width: 100vw;
     height: 100%;
-    overflow-y: scroll;
+    overflow-y: hidden;
     background: rgba(255,255,255,0.6);
     visibility: hidden;
 }
 
 #contentText-inner{
-    background: #ffffff;
+    background: #ffb8c8;
+    height: 100%;
     overflow-y: scroll;
     width: 80%;
     margin: 0 auto;
@@ -104,9 +105,10 @@ p{
 }
 
 #innerLetter {
-    height: auto;
-    background: #ffffff;
     width: 90%;
+    height: auto;
+    overflow-y: scroll;
+    background: #ffffff;
     margin: 0 auto;
     padding-bottom: 10vh;
 }
