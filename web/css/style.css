@@ -65,7 +65,7 @@ p{
 }
 
 #contentText-inner{
-    background: #ffb8c8;
+    background: #ffffff;
     height: 100%;
     overflow-y: scroll;
     width: 80%;
@@ -108,7 +108,7 @@ p{
     width: 90%;
     height: auto;
     overflow-y: scroll;
-    background: #ffffff;
+    background: #ffb8c8;
     margin: 0 auto;
     padding-bottom: 10vh;
 }
