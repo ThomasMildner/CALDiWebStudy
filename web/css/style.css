@@ -161,6 +161,8 @@ p{
 
     #content-lang-button-wrapper{
         padding-top: 2%;
+        width: 60%;
+        padding-left: 20%;
     }
     .button p {
         font-size: 1.5em;
