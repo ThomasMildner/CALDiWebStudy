@@ -186,7 +186,7 @@ const selectAndDisplayLanguage = (language) => {
             break;
         case Language.ITALIAN:
             innerLetter.innerHTML= `
-                <h2>Italian</h2>
+                <h2>Italiano</h2>
                 <h1>Europaweite Studie der Weltgesundheitsorganisation (WHO): Wie entwickeln sich Kinder heute?</h1>
                 <hr>
                 <p>Liebe Eltern,<br>
