@@ -67,7 +67,6 @@ p{
 
 #contentText-inner{
     background: #ffffff;
-    height: 100%;
     overflow-y: scroll;
     width: 80%;
     margin: 0 auto;
@@ -279,6 +278,20 @@ p{
     #content-lang-button-wrapper {
         grid-gap: 1em;
     }
+    #contentText-inner{
+        width: 97%;
+    }
+
+    #innerLetter {
+        width: 95%;
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+
+    #innerLetter h1{
+        font-size: 1.3em;
+    }
+
 
     .language-list{
         grid-gap: 1em;
