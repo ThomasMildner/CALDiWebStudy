@@ -65,7 +65,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -102,7 +102,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -140,7 +140,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -178,7 +178,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -216,7 +216,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -254,7 +254,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -292,7 +292,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -330,7 +330,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -368,7 +368,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -406,7 +406,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -444,7 +444,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
@@ -482,7 +482,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
-                <img src="img/signature-ahrens.png">
+                 
                 <br>
                 Prof. Dr. Wolfgang Ahrens
                 <br>
