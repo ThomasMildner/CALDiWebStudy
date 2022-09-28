@@ -211,11 +211,15 @@ p{
 /********************/
 #imprint-wrapper{
     display: grid;
+    height: 100%;
     grid-template-rows: 1fr 8fr 0.5fr;
     padding-left: 5%;
     padding-right: 5%;
 }
 
+#imprint-content {
+    height: 100%;
+}
 #imprint-header{
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -311,5 +315,31 @@ p{
 
     #footer a{
         font-size: 1.4em;
+    }
+}
+
+@media only screen and (max-width: 400px) and (orientation: portrait){
+    #header h1{
+        font-size: 1.2em;
+    }
+    #content-lang-button-wrapper{
+        padding-top: 5%;
+        width: 100%;
+        grid-gap: 0.7em;
+    }
+
+    .language-list{
+        grid-gap: 0.7em;
+    }
+
+    .button {
+        min-width: 100%;
+    }
+    .button p {
+        font-size: 1em;
+        font-weight: 400;
+    }
+    #footer a {
+        font-size: 1em;
     }
 }
