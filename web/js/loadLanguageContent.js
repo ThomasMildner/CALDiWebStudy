@@ -250,7 +250,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Ihre Schule benötigt die ausgefüllten Bögen innerhalb einer Woche zurück.
                 <br>
-                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:who-cosi@leibniz-bips.de"><b>who-cosi@leibniz-bips.de</b></a>
+                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:proxi-at-mail.co"><b>proxi-at-mail.co</b></a>
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
@@ -288,7 +288,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Ihre Schule benötigt die ausgefüllten Bögen innerhalb einer Woche zurück.
                 <br>
-                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:who-cosi@leibniz-bips.de"><b>who-cosi@leibniz-bips.de</b></a>
+                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:proxi-at-mail.co"><b>proxi-at-mail.co</b></a>
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
@@ -326,7 +326,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Ihre Schule benötigt die ausgefüllten Bögen innerhalb einer Woche zurück.
                 <br>
-                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:who-cosi@leibniz-bips.de"><b>who-cosi@leibniz-bips.de</b></a>
+                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:proxi-at-mail.co"><b>proxi-at-mail.co</b></a>
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
@@ -364,7 +364,7 @@ const selectAndDisplayLanguage = (language) => {
                 <br><br>
                 Ihre Schule benötigt die ausgefüllten Bögen innerhalb einer Woche zurück.
                 <br>
-                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:who-cosi@leibniz-bips.de"><b>who-cosi@leibniz-bips.de</b></a>
+                Wenn Sie Fragen haben, rufen Sie uns gern unter <b>0421 218 56830</b> an <br>oder schreiben Sie uns eine E-Mail an <a href="mailto:proxi-at-mail.co"><b>proxi-at-mail.co</b></a>
                 <br><br>
                 Mit freundlichen Grüßen
                 <br>
