@@ -17,6 +17,10 @@ p{
     font-weight: 200;
 }
 
+ul.a{
+    list-style-type: bullet;
+}
+
 #wrapper{
     position: absolute;
     height: 100vh;
@@ -73,7 +77,6 @@ p{
     padding-top: 10vh;
     filter: drop-shadow(0px 0px 10px #13456c);
 }
-
 
 .innerCloseButton {
     position: absolute;
@@ -159,12 +162,32 @@ p{
     grid-gap: 2em;
 }
 
+.right-to-left{
+    direction: rtl;
+}
+
+.left-to-right{
+    direction: ltr;
+}
+
+.text-alert{
+    color: #be1f1f;
+}
+
+.letter-table{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 0.5em;
+}
+
+
 .button{
     display: table;
     background: #3177BA;
     border-radius: 15px;
     height: 100%;
 }
+
 
 .button p {
     display: table-cell;
@@ -300,6 +323,9 @@ p{
         font-size: 1.3em;
     }
 
+    #innerLetter p{
+        color: #001a2f;
+    }
 
     .language-list{
         grid-gap: 1em;
