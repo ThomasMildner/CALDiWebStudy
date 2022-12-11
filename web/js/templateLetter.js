@@ -81,7 +81,7 @@ const letterCountry = `
             <p>Leibniz Institute for Prevention Research and Epidemiology - BIPS
             <br>Department of Epidemiological Methods and Causal Research
             <br>Fieldwork Unit
-            <br>Achterstraße 30 / 28359 Bremen</p>
+            <br>Achterstr. 30, 28359, Bremen, Germany.</p>
         </div>
     </div>
     <h2></h2>

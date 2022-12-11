@@ -1,6 +1,6 @@
 const letterBulgarian = `
 <div>
-   <h3 class="text-alert">Този документ е преведен автоматично с Google Translate. Моля, имайте предвид, че автоматичният превод може да преведе неточно или да пропусне думи и пълният им смисъл може да бъде загубен. Моля, вижте версията на немски или английски език, ако имате притеснения относно точността на преведения текст.</h3>
+   <h3 class="text-alert">Този документ е преведен автоматично с Google Преводач . Моля, имайте предвид, че автоматичният превод може да преведе неточно или да пропусне думи и пълният им смисъл може да бъде загубен. Моля, вижте версията на немски или английски език, ако имате притеснения относно точността на преведения текст.</h3>
     <hr>
     <p>До родителите на ученици от втори и трети клас.</p>
     <p>Скъпи родители,</p>
@@ -14,7 +14,7 @@ const letterBulgarian = `
     <p><b>0421 218 56830</b>(на немски) или по имейл: <a href="who-cosi@leibniz-bips.de"><b>who-cosi@leibniz-bips.de</b></a>.</p>
     <p>Благодаря ви много, че отделихте време за участие.</p>
     <p>Поздрави,</p>
-    <p>Волфганг Аренс</p>
+    <p>Wolfgang Ahrens</p>
     <p>(Главен разследващ)</p>
     <br>
     <h1>Учебна информация за родители</h1>
@@ -71,28 +71,25 @@ const letterBulgarian = `
     <h2>Ако имате въпроси...</h2>
     <p>...нашият изследователски екип на COSI ще се радва да ви помогне на 0421 218 56830 (на немски) или по имейл на who-cosi@lei bniz-bips.de . Ние ще се свържем с вас възможно най-скоро.</p>
     <div class="letter-table">
-        <div><p><b>Учебна координация</b><br><br>Stefan Rach<br></p></div>
+        <div><p><b>Учебна координация</b><br><br>Dr. Stefan Rach<br></p></div>
         <div class="letter-table-col-right">
-            <p>Лайбниц институт за превантивни изследвания и епидемиология - BIPS
-            </br>Отдел за епидемиологични методи и причинно-следствени изследвания
-            </br>Единица за работа на терен
-            </br>Achterstrasse 30 / 28359 Бремен</p>
+            <p>Leibniz Institute for Prevention Research and Epidemiology - BIPS, 
+            </br>Department of Epidemiological Methods and Causal Research
+            </br>Fieldwork Unit
+            </br>Achterstr. 30, 28359, Bremen, Germany.</p>
         </div>
     </div>
-    <h2>Кои страни също участват в изследването...</h2>
-    <p>Албания, Белгия, България, Дания, Естония, Финландия, Франция, Грузия, Гърция, Холандия, Ирландия, Италия, Казахстан, Киргизстан, Хърватия, Латвия, Литва, Малта, Македония, Монако, Черна гора, Норвегия, Австрия, Полша, Португалия, Молдова, Румъния, Русия, Сан Марино, Сърбия, Словакия, Словения, Испания, Швеция, Таджикистан, Турция, Туркменистан, Чехия, Узбекистан, Унгария, Кипър...</p>
-    <p><b>...и Бремен също е там отново!</b></p>
-    <h2>Забележка относно защитата на данните</h2>
-    <p>Новият Европейски общ регламент за защита на данните (EU-DSGVO) е в сила от 25 май 2018 г. Законодателят ни задължава да Ви предоставим допълнителна информация относно защитата на данните и правото на обжалване. С това бихме искали да изпълним това задължение.</p>
-    <p>Ако искате да получите информация относно съхраняваните от вас лични данни или да ги коригирате, моля, свържете се с нас писмено или устно на</p>
+    <h2>Note on data protection</h2>
+    <p>The new European General Data Protection Regulation (EU-DSGVO) has been in force since 25.05.2018. The legislator obliges us to provide you with additional information on data protection and the right of appeal. Herewith we would like to comply with this obligation.</p>
+    <p>If you would like to receive information about your stored personal data or have it corrected, please contact us in writing or verbally to</p>
     <ul>
-        <li><p>Професор доктор. Волфганг Аренс - Институт за превантивни изследвания и епидемиология Лайбниц - BIPS: телефон 0421-21856822, имейл ahrens@leibniz-bips.de </p></li>
-        <li><p>д-р Стефан Рах - Институт за превантивни изследвания и епидемиология Лайбниц - BIPS: телефон 0421-21856841, имейл rach@leibniz-bips.de</p></li>
-        <li><p>Служител по защита на данните на Института за превантивни изследвания и епидемиология Лайбниц - BIPS: Dr. Uweschläger, datenschutz nord GmbH, Konsul-Smidt-Strasse 88, 28217 Бремен, телефон 0421 69 66 32 0, електронна поща: office@datenschutz-nord.de </p></li>
+        <li><p>Prof. Dr. Wolfgang Ahrens - Leibniz Institute for Prevention Research and Epidemiology - BIPS: phone 0421-21856822, e-mail ahrens@leibniz-bips.de </p></li>
+        <li><p>Dr. Stefan Rach - Leibniz Institute for Prevention Research and Epidemiology - BIPS: phone 0421-21856841, e-mail rach@leibniz-bips.de</p></li>
+        <li><p>Data Protection Officer of the Leibniz Institute for Prevention Research and Epidemiology - BIPS: Dr. Uwe Schläger, datenschutz nord GmbH, Konsul-Smidt-Straße 88, 28217 Bremen, phone 0421 69 66 32 0, e-mail: office@datenschutz-nord.de </p></li>
     </ul>
-    <p>Всички участници в проучването или техните законни представители имат право да подадат жалба до компетентния надзорен орган по защита на данните. Във вашия случай това са следните институции:</p>
-    <p>Държавният комисар по защита на данните и свободата на информацията на свободния ханзейски град Бремен, Arndtstraße 1, 27570 Бремерхафен, телефон: 0421/361-2010,</p>
-    <p>електронна поща: office@datenschutz.bremen.de </p>
+    <p>All study participants or their legal representatives have the right to complain to the competent data protection supervisory authority. In your case, these are the following institutions:</p>
+    <p>The State Commissioner for Data Protection and Freedom of Information of the Free Hanseatic City of Bremen, Arndtstraße 1, 27570 Bremerhaven, telephone: 0421/361-2010, </p>
+    <p>e-mail: office@datenschutz.bremen.de </p>
     <br>
 </div>
 `

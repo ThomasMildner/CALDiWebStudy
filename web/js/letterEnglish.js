@@ -49,12 +49,12 @@ const letterEnglish = `
         <h2>What happens with the data…</h2>
         <li><p>All collected data and contact information are stored at the Bremen Leibniz Institute for Prevention Research and Epidemiology - BIPS. The examination data are pseudonymized, meaning they are not stored and analyzed together with the children's names, but instead are only marked with an identification number. </p></li>
         <li><p>Names and addresses are locked securely and kept separately from the examination data. </p></li>
-        <li><p>For some evaluations, pseudonymized examination data and results will be transmitted to the cooperation partners.<u></u></p>
+        <li><p>For some evaluations, pseudonymized examination data and results will be transmitted to the cooperation partners.</p>
             <ul>
                 <li><p>World Health Organization (WHO Regional Office for Europe) and </p></li>
                 <li><p>Bremen Senate Authority for Health, Women and Consumer Protection and the Authority for Science and Ports </p></li>
             </ul>
-            <p><u>Pseudonymized</u> means that neither names nor contact data of the participating persons are passed on to the cooperation partners.</p>
+            <p>Pseudonymized means that neither names nor contact data of the participating persons are passed on to the cooperation partners.</p>
         </li>
         <li><p>Your name or contact details will not be mentioned or published in any report. </p></li>
         <li><p>All legal data protection requirements applicable in Germany will be observed in the study. If you have any questions about data protection, you will find the responsible contact person on the last page of the printed study information.</p></li>   
@@ -80,7 +80,7 @@ const letterEnglish = `
             <p>Leibniz Institute for Prevention Research and Epidemiology - BIPS
             <br>Department of Epidemiological Methods and Causal Research
             <br>Fieldwork Unit
-            <br>Achterstraße 30 / 28359 Bremen</p>
+            <br>Achterstr. 30, 28359, Bremen, Germany.</p>
         </div>
     </div>
     
