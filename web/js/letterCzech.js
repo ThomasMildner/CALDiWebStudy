@@ -10,7 +10,8 @@ const letterCzech = `
     <p>Více informací naleznete níže.</p>
     <p>Tím, že se rozhodnete zúčastnit, podpoříte náš společný cíl zlepšit zdraví a pohodu našich dětí v celé Evropě. Účast v tomto průzkumu je dobrovolná a pokud se nezúčastníte, nevzniknou vám žádné nevýhody.</p>
     <p>Vyplňte prosím souhlasné prohlášení a dotazník do jednoho týdne a oba dejte svému dítěti k odevzdání ve škole. Bez tohoto prohlášení o souhlasu se vaše dítě nemůže zúčastnit.</p>
-    <p>V případě jakýchkoliv dotazů ke studiu se můžete obrátit na studijní tým na BIPS ve všední dny mezi 9:00 a 15:00 na telefonním čísle:<b>0421 218 56830</b> (v němčině) nebo e-mailem :<a href="who-cosi@leibniz-bips.de"><b>who-cosi@leibniz-bips.de</b></a>.</p>
+    <p>V případě jakýchkoliv dotazů ke studiu se můžete obrátit na studijní tým na BIPS ve všední dny mezi 9:00 a 15:00 na telefonním čísle: <b>0421 218 56830</b> (v němčině) nebo e-mailem: 
+    <a href="who-cosi@leibniz-bips.de"><b>who-cosi@leibniz-bips.de</b></a>.</p>
     <p>Velice vám děkujeme, že jste si udělali čas na účast.</p>
     <p>S přátelským pozdravem,</p>
     <p>Wolfgang Ahrens</p>

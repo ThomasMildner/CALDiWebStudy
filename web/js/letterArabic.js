@@ -177,7 +177,7 @@ const letterArabic = `
         <p>
          ، بريمن ، ألمانيا. الهاتف:
         </p>
-        <p class="left-to-right">0421-21856841</p>
+        <p class="left-to-right">0421 218 56841</p>
         <p>
           ، البريد الإلكتروني:
         </p>
@@ -191,9 +191,7 @@ const letterArabic = `
     <p>
     ... سيسعد فريق دراسة COSI الخاص بنا بمساعدتك على الرقم
     </p>
-    <p class="left-to-right">
-     0421 218 56830 
-    </p>
+    <p class="left-to-right" style="text-align: right">0421 218 56830 </p>
     <p>
     (باللغة الألمانية) أو عبر البريد الإلكتروني على who-cosi@leibniz-bips.de. سنعود إليك في أقرب وقت ممكن.
     </p>
