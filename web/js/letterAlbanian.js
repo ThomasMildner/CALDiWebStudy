@@ -67,7 +67,7 @@ const letterAlbanian = `
         <li><p>Ju mund të tërhiqni pëlqimin tuaj për të marrë pjesë në çdo kohë, me gojë ose me shkrim, pa dhënë asnjë arsye, dhe të kërkoni që të dhënat personale dhe të dhënat e ekzaminimit të fshihen pa ndonjë dëm për fëmijën tuaj ose ju. Personi juaj i kontaktit për një tërheqje është Dr. Stefan Rach - Instituti Leibniz për Kërkime Parandaluese dhe Epidemiologji - BIPS, Achterstr. 30, 28359, Bremen, Gjermani. Telefon: 0421-21856841 , e-mail: who-cosi@leibniz-bips.de.</p></li>
     </ul>
     <h2>Nëse keni ndonjë pyetje…</h2>
-    <p>...ekipi ynë i studimit COSI do të jetë i lumtur t'ju ndihmojë në 0421 218 56830 (në gjermanisht) ose me email në pop- who-cosi@leibniz-bips.de . Ne do të kthehemi tek ju sa më shpejt të jetë e mundur.</p>
+    <p>...ekipi ynë i studimit COSI do të jetë i lumtur t'ju ndihmojë në 0421 218 56830 (në gjermanisht) ose me email në who-cosi@leibniz-bips.de. Ne do të kthehemi tek ju sa më shpejt të jetë e mundur.</p>
     
     <div class="letter-table">
         <div>
