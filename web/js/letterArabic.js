@@ -42,9 +42,7 @@ const letterArabic = `
     <p>
     أطيب التحيات،
     </p>
-    <p><!--Wolfgang Ahrens
-وولفجانج آرينز    
-    -->
+    <p>
     Wolfgang Ahrens
     </p>
     <p>
@@ -179,7 +177,7 @@ const letterArabic = `
         <p>
          ، بريمن ، ألمانيا. الهاتف:
         </p>
-        <p>0421-21856841</p>
+        <p class="left-to-right">0421-21856841</p>
         <p>
           ، البريد الإلكتروني:
         </p>
@@ -193,7 +191,7 @@ const letterArabic = `
     <p>
     ... سيسعد فريق دراسة COSI الخاص بنا بمساعدتك على الرقم
     </p>
-    <p>
+    <p class="left-to-right">
      0421 218 56830 
     </p>
     <p>
